@@ -1,7 +1,7 @@
 <h1 align="left">About Me:</h1>
 <h1 align="center">
   <a href="https://prodip2005.github.io/My-Portfolio-Website/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Prodip+Hore;A+Front-End+developer;And+a+programmer!&center=true&size=30&color=c9d6ff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Priyanto+Debnath;And+a+programmer!&center=true&size=25&color=c9d6ff">
   </a>
 </h1>
 <h3 align="center">A passionate Computer Engineer from Bangladesh</h3>
