@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">A passionate Computer Engineer from Bangladesh</h3>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243349804-BWM994NEV97HLY6KGYI4/01d7176e77aebf3b461562899efcf47f.gif" width="300px" align="right" alt="">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk0aTBoMGo1Y3Nha3JkbjJ0c3NseXh2czF3MTVzdTRvMXlnMmF0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="500px" align="right" alt="">
 
 - 🌱 I’m currently learning **DSA, Web Development, JAVA, JS, Python**
 - 💻 I’m currently working as a **Student**
@@ -50,21 +50,21 @@
 <div align="center">
   # 📊 GitHub Stats:
 
-[![Prodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=prodip2005&show_icons=true&card_width=495&custom_title=My+Stats&line_height=29&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
+[![Priyanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanto71&show_icons=true&card_width=495&custom_title=My+Stats&line_height=29&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=prodip2005&theme=dark&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodip2005&card_width=495&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanto71&card_width=495&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=prodip2005&theme=merko)]
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=prodip2005&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Priyanto71&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prodip2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Priyanto71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prodip2005&icon=0&color=0)](https://visitcount.itsvg.in)
