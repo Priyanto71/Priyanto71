@@ -1,14 +1,14 @@
 <h1 align="left">About Me:</h1>
 <h1 align="center">
   <a href="https://prodip2005.github.io/My-Portfolio-Website/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Priyanto+Debnath;And+a+programmer!&center=true&size=25&color=c9d6ff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Priyanto+Debnath;A+Programmer;A+Photographer;A+Graphics+Designer;And+an+UX/UI+Designer!&center=true&size=25&color=c9d6ff">
   </a>
 </h1>
 <h3 align="center">A passionate Computer Engineer from Bangladesh</h3>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk0aTBoMGo1Y3Nha3JkbjJ0c3NseXh2czF3MTVzdTRvMXlnMmF0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="500px" align="right" alt="">
 
-- 🌱 I’m currently learning **DSA, Web Development, JAVA, JS, Python**
+- 🌱 I’m currently learning **DSA, UX/UI Designer, JAVA, Python**
 - 💻 I’m currently working as a **Student**
 - 🎨 I have experience in **Frontend and Backend Development** with **React.js, Node.js**
 - 🔐 Skilled in **Web Development**, **Competitive Programming** and familiar with various **security tools**
@@ -16,7 +16,7 @@
 - 📚 Check out my projects on **[Project & work ](https://github.com/prodip2005/English-Janala.git)**
 - 👤 Previously interned at **Bluestock Fintech (Frontend Developer)**
 - 💬 Ask me about **C, C++, HTML, CSS3, TailWindCSS, JavaScript, JAVA, React**
-- 📧 Reach me at **prodiphore2005@gmail.com**
+- 📧 Reach me at **priyantodn71@gmail.com**
 
 
 
