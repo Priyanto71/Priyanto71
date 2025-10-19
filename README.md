@@ -52,10 +52,10 @@
 
 [![Priyanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanto71&show_icons=true&card_width=495&custom_title=My+Stats&line_height=29&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
 
-![](https://nirzak-streak-stats.vercel.app/?user=prodip2005&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Priyanto71&theme=dark&hide_border=false)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanto71&card_width=495&theme=tokyonight)](https://prodip2005.github.io/My-Portfolio-Website/)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=prodip2005&theme=merko)]
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Priyanto71&theme=merko)]
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Priyanto71&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
@@ -67,7 +67,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Priyanto71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prodip2005&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Priyanto71&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
