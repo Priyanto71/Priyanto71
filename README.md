@@ -59,6 +59,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Priyanto71&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
+# 🏅 Programming Stats:
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Priyanto71&theme=github_dark&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/Priyanto71)<br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Priyanto71?theme=dark&font=Antonio&ext=heatmap)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
