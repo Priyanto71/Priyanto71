@@ -14,7 +14,7 @@
 
 </br>
 
-- 🌱 I’m currently learning **DSA, UX/UI Designing, JAVA, Python, C++, Dart, Flutter**
+- 🌱 I’m currently learning **DSA, UX/UI Designing, JAVA, Python, C++, Flutter**
 - 💻 I’m currently working as a **Student**
 - 🎨 I have experience in **App Development and UX/UI Designing** with **Flutter, Figma**
 - 🔐 Skilled in **App Development**, **Competitive Programming**, **UX/UI Designing** and familiar with various **security tools**
